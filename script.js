@@ -6,6 +6,7 @@ function redirectToGoogle(event) {
     }
   }
   
+  
   function redirectToDoodles() {
     window.location.href = "https://doodles.google/";
   }
